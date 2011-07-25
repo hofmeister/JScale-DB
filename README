@@ -1,0 +1,12 @@
+Nothing much yet
+
+Planned features:
+ - Clustered transactions
+ - Clustered sort and group queries (including offset/limit searches)
+ - Clustered joins
+ - Document-oriented - with constraints to other documents (joins)
+ - SQL-based query language
+ - Lucene full-text search option
+ - 100% pure java
+ - Auto-sharding
+ - New cluster node causes new sharding of data - transparently
