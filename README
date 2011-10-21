@@ -10,3 +10,4 @@ Planned features:
  - 100% pure java
  - Auto-sharding
  - New cluster node causes new sharding of data - transparently
+ - async publish/subscribe based queries that allows for near-instant cluster-wide locks
